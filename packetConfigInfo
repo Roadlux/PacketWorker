@@ -5,42 +5,42 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
+                    "config"      : "vless://8e27d88b-26fa-445c-b412-4ab6269ebdb9@80.209.237.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=IlPuQVJZ-1QHbh17Hgk-WY3o10atmHNXyMaEbMOPyHE&sid=196d88608583a1b4&type=tcp&headerType=none#K59"
                 },
                 {
                     "id"          : 2,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
+                    "config"      : "vless://9da1693d-9e4c-4a41-841a-f085bf90e70d@194.5.98.94:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=drive.google.com&fp=chrome&pbk=NTxE5fnbrIwMXvWbWAKBYRzMfixaioo3NWEewIVrxjg&sid=3d5f458e28&type=tcp&headerType=none#K300"
                 },
                 {
                     "id"          : 3,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
+                    "config"      : "vless://03ba9ecd-1b21-4139-b513-95c7fe72bc31@162.55.38.138:443?encryption=none&security=reality&sni=www.canva.com&fp=chrome&pbk=5pTU-HyLLVkX7eiL9N8PPK4mH9krLMdO_K1MXJk98W4&sid=86f3d73a&type=grpc#K219"
                 },
                 {
 		    "id"          : 4,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
+                    "config"      : "vless://031a2d6c-ce91-4167-bcb8-012d346a6e70@23.88.102.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sn.hfafn.site&fp=chrome&pbk=CPLcMRb5VAd149rnWt2xOoYzNn_L7bPXxH-mnXfe-lM&sid=eb2224c8&type=tcp&headerType=none#K71"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
+                    "config"      : "vless://fb80a042-dc9f-441a-93f1-f1abf69a6000@91.107.138.141:443?encryption=none&security=reality&sni=sourceforge.net&fp=safari&pbk=iZDtas2vdYQxCMl0HH6FOppnsmNUehgMtGWb3s9i0gI&sid=e2&type=grpc&serviceName=Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753-Telegram-Channel%3A%40mls2753&mode=gun#K42"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
+                    "config"      : "vless://01596265-168b-46a7-bcb7-25662c7a9546@209.250.244.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dweb.link&fp=chrome&pbk=OpqpQzXN7zSlM-P4YhdjProDaYJt0KzzpdsCMUqQmm0&sid=7519cb&type=tcp&headerType=none#K33"
                 },
 		{
 		    "id"          : 7,
