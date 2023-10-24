@@ -5,7 +5,7 @@
       "notificationDescription" : "This is update web service api just for me",
       "notificationTitle"       : "Web Service", 
       "notificationID"          : 2,
-      "timer"                   : 60000 ,
+      "timer"                   : 900000 ,
       "channelLink"             :"https://medium.com/@domen.lanisnik/efficiently-updating-recyclerview-items-using-payloads-1305f65f3068"             
 }
   
