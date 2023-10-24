@@ -1,6 +1,6 @@
 {
-   "appInfo" : 
-            {
+   "appInfo" : [
+       {
               "adStatusEnable"          : true,
               "delayInterstitialAd"     : 4000,
               "loadAdStatus"            : "SELECT_SERVER",
@@ -10,7 +10,10 @@
               "timer"                   : 60000 
               "channelLink"             :"https://medium.com/@domen.lanisnik/efficiently-updating-recyclerview-items-using-payloads-1305f65f3068",       
 
-            }
+        }
+
+   ]
+           
 }
   
   
