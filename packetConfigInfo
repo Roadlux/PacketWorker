@@ -1,30 +1,35 @@
 {
     "configs" : [
                 {
+		    "id"          : 1,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
                 {
+                    "id"          : 2,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
                 {
+                    "id"          : 3,,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
                 {
+		    "id"          : 4,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
-				{
+		{
+		    "id"          : 5,
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
