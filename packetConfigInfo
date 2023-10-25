@@ -51,15 +51,15 @@
                 },
 		{
 		    "id"          : 8,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "IR",
+                    "countryName" : "Iran",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
 		{
 		    "id"          : 9,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
+                    "symbol"      : "TR",
+                    "countryName" : "Turkey",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
@@ -72,43 +72,57 @@
                 },
 		{
 		    "id"          : 11,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
+                    "symbol"      : "SW",
+                    "countryName" : "Sweden",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
 		{
 		    "id"          : 12,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
                     "ping"        : 0,
                     "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#H59"
                 },
                 {
 		    "id"          : 13,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
+                    "symbol"      : "RU",
+                    "countryName" : "Russian",
                     "ping"        : 0,
                     "config"      : "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#KS44"
                 },
 		{
 		    "id"          : 14,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
+                    "symbol"      : "KRO",
+                    "countryName" : "Korea",
                     "ping"        : 0,
                     "config"      : "vless://031a2d6c-ce91-4167-bcb8-012d346a6e70@23.88.102.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sn.hfafn.site&fp=chrome&pbk=CPLcMRb5VAd149rnWt2xOoYzNn_L7bPXxH-mnXfe-lM&sid=eb2224c8&type=tcp&headerType=none#K71"
                 },
 		{
 		    "id"          : 15,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
+                    "symbol"      : "DN",
+                    "countryName" : "Denmark",
                     "ping"        : 0,
                     "config"      : "vless://9da1693d-9e4c-4a41-841a-f085bf90e70d@194.5.98.94:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=drive.google.com&fp=chrome&pbk=NTxE5fnbrIwMXvWbWAKBYRzMfixaioo3NWEewIVrxjg&sid=3d5f458e28&type=tcp&headerType=none#K300"
                 },
 		{
 		    "id"          : 16,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
+                    "symbol"      : "FL",
+                    "countryName" : "Finland",
+                    "ping"        : 0,
+                    "config"      : "vless://8e27d88b-26fa-445c-b412-4ab6269ebdb9@80.209.237.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=IlPuQVJZ-1QHbh17Hgk-WY3o10atmHNXyMaEbMOPyHE&sid=196d88608583a1b4&type=tcp&headerType=none#K59"
+                },
+		{
+		    "id"          : 17,
+                    "symbol"      : "EM",
+                    "countryName" : "Emirate",
+                    "ping"        : 0,
+                    "config"      : "vless://8e27d88b-26fa-445c-b412-4ab6269ebdb9@80.209.237.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=IlPuQVJZ-1QHbh17Hgk-WY3o10atmHNXyMaEbMOPyHE&sid=196d88608583a1b4&type=tcp&headerType=none#K59"
+                },
+                {
+		    "id"          : 18,
+                    "symbol"      : "CH",
+                    "countryName" : "China",
                     "ping"        : 0,
                     "config"      : "vless://8e27d88b-26fa-445c-b412-4ab6269ebdb9@80.209.237.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=IlPuQVJZ-1QHbh17Hgk-WY3o10atmHNXyMaEbMOPyHE&sid=196d88608583a1b4&type=tcp&headerType=none#K59"
                 }
