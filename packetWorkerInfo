@@ -1,10 +1,10 @@
 {
       "adStatusEnable"          : true,
-      "delayInterstitialAd"     : 4000,
+      "delayInterstitialAd"     : 6000,
       "loadAdStatus"            : "AFTER_CONNECT",
       "notificationDescription" : "-Test notification local system for you dear friends",
       "notificationTitle"       : "Test App", 
-      "notificationID"          : 3,
+      "notificationID"          : 2,
       "timer"                   : 900000 ,
       "channelLink"             :"https://medium.com/@domen.lanisnik/efficiently-updating-recyclerview-items-using-payloads-1305f65f3068"             
 }
