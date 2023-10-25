@@ -111,7 +111,7 @@
                     "countryName" : "Singapore",
                     "ping"        : 0,
                     "config"      : "vless://8e27d88b-26fa-445c-b412-4ab6269ebdb9@80.209.237.227:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=IlPuQVJZ-1QHbh17Hgk-WY3o10atmHNXyMaEbMOPyHE&sid=196d88608583a1b4&type=tcp&headerType=none#K59"
-                },
+                }
 		
     ]
    
