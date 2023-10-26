@@ -1,7 +1,7 @@
 {
       "adStatusEnable"          : true,
       "delayInterstitialAd"     : 6000,
-      "loadAdStatus"            : "AFTER_CONNECT",
+      "loadAdStatus"            : "SELECT_SERVER",
       "notificationDescription" : "-Test notification local system for you dear friends",
       "notificationTitle"       : "Test App", 
       "notificationID"          : 2,
