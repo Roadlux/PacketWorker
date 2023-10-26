@@ -3,8 +3,8 @@
       "delayInterstitialAd"     : 6000,
       "loadAdStatus"            : "SELECT_SERVER",
       "notificationDescription" : "-Test notification local system for you dear friends",
-      "notificationTitle"       : "Test App", 
-      "notificationID"          : 2,
+      "notificationTitle"       : "Update Notification", 
+      "notificationID"          : 0,
       "timer"                   : 900000 ,
       "channelLink"             :"https://medium.com/@domen.lanisnik/efficiently-updating-recyclerview-items-using-payloads-1305f65f3068"             
 }
