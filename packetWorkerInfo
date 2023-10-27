@@ -2,10 +2,10 @@
       "adStatusEnable"          : true,
       "delayInterstitialAd"     : 6000,
       "loadAdStatus"            : "SELECT_SERVER",
-      "notificationDescription" : "-Test notification local system for you dear friends",
-      "notificationTitle"       : "Update Notification", 
+      "notificationDescription" : "Here we are trying to provide you with a high quality of server stability",
+      "notificationTitle"       : "Well Come", 
       "notificationID"          : 0,
-      "timer"                   : 900000 ,
+      "timer"                   : 7200000 ,
       "channelLink"             :"https://t.me/PacketVPNService"             
 }
   
