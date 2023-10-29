@@ -5,42 +5,42 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&fp=chrome&type=tcp&headerType=none#Q11"
+                    "config"      : "trojan://telegram-id-directvpn@99.81.216.142:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#c3"
                 },
                 {
                     "id"          : 2,
                     "symbol"      : "FL",
                     "countryName" : "Findland",
                     "ping"        : 0,
-                    "config"      : "trojan://a77ad20a55@91.209.70.106:443?security=tls&sni=ru1.connecton.surf&fp=chrome&type=tcp&headerType=none#Q15"
+                    "config"      : "vless://4b8dcba1-5937-4f0e-ad6a-b403dd48b09d@193.227.99.66:8443?encryption=none&security=tls&sni=ch.donaldvpn.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#C42"
                 },
                 {
                     "id"          : 3,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "trojan://8802124a-e0e1-4f5e-9d1f-910f2ce331f2@5.75.254.127:443?security=tls&sni=b2.talamala.co&alpn=http%2F1.1&fp=chrome&type=grpc&serviceName=6PQbFwJBKjVk1LYld&mode=gun#Q88"
+                    "config"      : "vless://4337a978-4e7b-459f-83d6-d0c29e1b96de@94.228.169.211:31903?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=BxVmNGOlH4zPm1toOIZQTh8rGxC0rlfAGFcYUcgF5Dg&sid=9b22f1e5&type=grpc#C72"
                 },
                 {
 		    "id"          : 4,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
+                    "symbol"      : "CA",
+                    "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?encryption=none&security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#Q22"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#C42"
                 },
 		{
 		    "id"          : 5,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
+                    "symbol"      : "IT",
+                    "countryName" : "Italy",
                     "ping"        : 0,
-                    "config"      : "vless://3725c1e2-8d2b-4394-9036-2761192581ad@194.5.97.54:443?encryption=none&security=tls&sni=vip.mahdivps.tk&alpn=http%2F1.1%2Ch2&type=grpc&serviceName=%40TrwNeT&mode=gun#Q99"
+                    "config"      : "vless://c44d8f2f-cd29-4eac-b3da-3b9c9f255b84@104.24.176.7:8443?encryption=none&security=tls&sni=ch2.puzzlemobile.info&alpn=http%2F1.1%2Ch2&type=grpc&serviceName=%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir&mode=gun#C54"
                 },
 		{
 		    "id"          : 6,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "FR",
+                    "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?encryption=none&security=tls&sni=bypassfilter.test-fad.workers.dev&type=ws&host=bypassfilter.test-fad.workers.dev&path=vless-ws%2F%3Fed%3D2048#Q42"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.221.18:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=https%3A%2F%2Fliapp.lockincomp.com%2Fliapp-learn-more%3Futm_term%3D#C99"
                 }
 		
 		
