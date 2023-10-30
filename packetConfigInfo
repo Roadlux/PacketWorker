@@ -5,42 +5,42 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://telegram-id-directvpn@99.81.216.142:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#c3"
+                    "config"      : "trojan://95532c1dcc@51.158.63.14:443?security=tls&sni=fra1.connecton.surf&type=tcp&headerType=none#K88"
                 },
                 {
                     "id"          : 2,
                     "symbol"      : "FL",
                     "countryName" : "Findland",
                     "ping"        : 0,
-                    "config"      : "vless://4b8dcba1-5937-4f0e-ad6a-b403dd48b09d@193.227.99.66:8443?encryption=none&security=tls&sni=ch.donaldvpn.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#C42"
+                    "config"      : "trojan://44c5578a7c@37.143.129.56:443?security=tls&sni=fi1.connecton.surf&type=tcp&headerType=none#K42"
                 },
                 {
                     "id"          : 3,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://4337a978-4e7b-459f-83d6-d0c29e1b96de@94.228.169.211:31903?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=BxVmNGOlH4zPm1toOIZQTh8rGxC0rlfAGFcYUcgF5Dg&sid=9b22f1e5&type=grpc#C72"
+                    "config"      : "trojan://c33883045c@uk1.connecton.surf:443?security=tls&sni=uk1.connecton.surf&type=tcp&headerType=none#K18"
                 },
                 {
 		    "id"          : 4,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#C42"
+                    "config"      : "trojan://a77ad20a55@91.209.70.106:443?security=tls&sni=ru1.connecton.surf&type=tcp&headerType=none#K13"
                 },
 		{
 		    "id"          : 5,
                     "symbol"      : "IT",
                     "countryName" : "Italy",
                     "ping"        : 0,
-                    "config"      : "vless://c44d8f2f-cd29-4eac-b3da-3b9c9f255b84@104.24.176.7:8443?encryption=none&security=tls&sni=ch2.puzzlemobile.info&alpn=http%2F1.1%2Ch2&type=grpc&serviceName=%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir%2C%40NIM_VPN_ir&mode=gun#C54"
+                    "config"      : "trojan://517ccb0754@5.199.143.230:443?security=tls&sni=de1.connecton.surf&type=tcp&headerType=none#K12"
                 },
 		{
 		    "id"          : 6,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.221.18:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=https%3A%2F%2Fliapp.lockincomp.com%2Fliapp-learn-more%3Futm_term%3D#C99"
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
                 }
 		
 		
