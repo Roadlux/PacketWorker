@@ -5,92 +5,22 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://your_password@104.21.7.241:443?security=tls&sni=aws-sg-1.f1cflineb.com&alpn=http%2F1.1&fp=chrome&type=ws&host=aws-sg-1.f1cflineb.com&path=%2Ff1rocket#M42"
+                    "config"      : "vless://3f272918-a213-4cb0-9c17-5c1ba0894fc5@139.59.210.222:36100?encryption=none&security=reality&sni=de.vpncustomize.Website&fp=firefox&pbk=-DaSaaADXI5tOuXRGdZVHLtoGIPCZ-QARscFK8MgnGQ&sid=4caf4964&type=grpc&serviceName=%40proxyforopeta&mode=gun#H1"
                 },
                 {
                     "id"          : 2,
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
-                    "config"      : "vless://228cf460-bb52-4810-b523-e4c0f51f71dd@104.21.42.117:2053?encryption=none&security=tls&sni=uciran66.wogofis519.workers.dev&fp=chrome&type=ws&host=uciran66.wogofis519.workers.dev&path=vless-ws%2F%3Fed%3D2048#M72"
+                    "config"      : "vless://fbbace7d-9ef7-4be0-ab85-61c8fdfce9ad@5.75.251.8:20957?encryption=none&security=reality&sni=coudflare.com&fp=chrome&pbk=3lhY4nf_OKxN_EZsUjR_xHVgi21PxUeV6ZislT9kxDg&sid=274d5ef2&type=http&path=%2F#H2"
                 },
                 {
                     "id"          : 3,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://c3c20db7-d32b-454a-9843-ec22d064a842@104.21.41.131:443?encryption=none&security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#M21"
-                },
-                {
-		    "id"          : 4,
-                    "symbol"      : "DE",
-                    "countryName" : "Germany",
-                    "ping"        : 0,
-                    "config"      : "vless://498e40e3-9447-48ec-bdcf-b7655bb99d0e@162.159.135.234:443?encryption=none&security=tls&sni=de.vpncustomize.Website&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=de.vpncustomize.Website&path=%2F#M91"
-                },
-		{
-		    "id"          : 5,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
-                    "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@45.142.236.13:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#M11"
-                },
-		{
-		    "id"          : 6,
-                    "symbol"      : "DN",
-                    "countryName" : "Denmark",
-                    "ping"        : 0,
-                    "config"      : "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.25.188:443?encryption=none&security=tls&sni=iraniancp.click&type=ws&host=worker.iraniancp.click&path=%2F%3Fed%3D2048#M8"
-                },
-		{
-		    "id"          : 7,
-                    "symbol"      : "IT",
-                    "countryName" : "Italy",
-                    "ping"        : 0,
-                    "config"      : "vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?encryption=none&security=tls&sni=workerr.mcgrooge12.workers.dev&fp=chrome&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048#M4"
-                },
-		{
-		    "id"          : 8,
-                    "symbol"      : "SP",
-                    "countryName" : "Spain",
-                    "ping"        : 0,
-                    "config"      : "vless://c3c20db7-d32b-454a-9843-ec22d064a842@172.67.147.94:443?encryption=none&security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#M100"
-                },
-		{
-		    "id"          : 9,
-                    "symbol"      : "FR",
-                    "countryName" : "France",
-                    "ping"        : 0,
-                    "config"      : "vless://6a81765b-c396-41fc-82eb-8e80a5328f72@172.67.204.17:443?encryption=none&security=tls&sni=hated.thenorthernlights.website&type=ws&host=hated.thenorthernlights.website&path=%2Fnimws#M7"
-                },
-		{
-		    "id"          : 10,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
-                    "ping"        : 0,
-                    "config"      : "vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:8443?encryption=none&security=tls&sni=workerr.mcgrooge12.workers.dev&fp=chrome&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048#M6"
-                },
-		{
-		    "id"          : 11,
-                    "symbol"      : "UK",
-                    "countryName" : "United Kingdom",
-                    "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=safari&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#M58"
-                },
-		{
-		    "id"          : 12,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
-                    "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@195.85.59.15:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev%2Ftabrizm137.com%2Fhttps%3A%2F%2Fpassport.8338.hk%2Fen%2Fcdn%2Flogin%3Fs%3DemlpH&path=https%3A%2F%2Fpassport.8338.hk%2Fsc%2Fudomain%2Flogin%3F_ga%3D2.242359242.995021333.1694767696-894906061.1694767696%26_gl%3D1%2A1mxzy8j%2A_ga%2AODk0OTA2MDYxLjE2OTQ3Njc2OTY.%2A_ga_4N38NS1XJW%2AMTY5NDc2NzY5Ni4xLjAuMTY5NDc2NzY5Ni4wLjAuMAhttps%3A%2F%2Fwww.DiamondTM.com.hk%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2F%40AZARBAYJAB1%2Fhttps%3A%2F%2Fwww.udomain.hk%2Fen%2Fservice%2Fnetwork%2Fhongkong-cdn-pricing-content-delivery-network-local%2Fpricing%3Fcid%3D8%26pcode%3DCDN-HK-ROUTING-STARTUP-PLAN%26utm_campaign%3DUDBA%26utm_source%3DService-Suspension-CDN-Trial-D15%26utm_medium%3Demail%26utm_content%3DSubscribeNow-HongKong-EN%26cusid%3D94307%26_dc_%3Db326b50%23step2%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2F%40tabrizm137%2FDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTMDIAMOND%2FTM%2Ft.me%2Fazarbayjab1t.me%2Fazarbayjab1t.me%2Fazarbayjab1t.me%2Fazarbayjab1%2Fhttps%3A%2F%2Fwww.udomain.hk%2Fsc%2Fservice%2Fnetwork%2Fchina-cdn-pricing-content-delivery-network-icp%2Ftabrizm137.com#M83"
-                },
-		{
-		    "id"          : 13,
-                    "symbol"      : "TR",
-                    "countryName" : "Turkey",
-                    "ping"        : 0,
-                    "config"      : "trojan://517ccb0754@5.199.143.230:443?security=tls&sni=de1.connecton.surf&type=tcp&headerType=none#K12"
-                }
+                    "config"      : "vless://ec1c739c-0f10-474a-ac4c-723cf5f4c794@77.91.70.5:443?encryption=none&security=reality&sni=discord.com&fp=chrome&pbk=Y1wCsng55FI_--0jRHiARiaiSUO79Kqj8rEZejYEGwk&sid=f849ec4d&type=grpc#H3"
+                }  
 		
     ]
    
