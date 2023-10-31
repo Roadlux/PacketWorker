@@ -2,25 +2,89 @@
     "configs" : [
                 {
 		    "id"          : 1,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://3f272918-a213-4cb0-9c17-5c1ba0894fc5@139.59.210.222:36100?encryption=none&security=reality&sni=de.vpncustomize.Website&fp=firefox&pbk=-DaSaaADXI5tOuXRGdZVHLtoGIPCZ-QARscFK8MgnGQ&sid=4caf4964&type=grpc&serviceName=%40proxyforopeta&mode=gun#H1"
+                    "config"      : "trojan://5ab02a74-b9aa-4a27-bdf3-7c787fa22733@2sgmax09.156786.xyz:45634?security=tls&sni=2sgmax09.156786.xyz&type=tcp&headerType=none#M1"
                 },
                 {
                     "id"          : 2,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://fbbace7d-9ef7-4be0-ab85-61c8fdfce9ad@5.75.251.8:20957?encryption=none&security=reality&sni=coudflare.com&fp=chrome&pbk=3lhY4nf_OKxN_EZsUjR_xHVgi21PxUeV6ZislT9kxDg&sid=274d5ef2&type=http&path=%2F#H2"
+                    "config"      : "trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp&headerType=none#M2"
                 },
                 {
                     "id"          : 3,
+                    "symbol"      : "FR",
+                    "countryName" : "France",
+                    "ping"        : 0,
+                    "config"      : "trojan://zwbdPys6Va@94.131.13.159:16128?security=tls&sni=vpnallpha.online&type=tcp&headerType=none#M3"
+                },
+		{
+                    "id"          : 4,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "trojan://your_password@16.163.157.177:443?security=tls&sni=aws-hk-1.f1rocketnode.com&type=tcp&headerType=none#M4"
+                },
+		{
+                    "id"          : 5,
+                    "symbol"      : "UK",
+                    "countryName" : "United Kingdom",
+                    "ping"        : 0,
+                    "config"      : "trojan://your_password@3.35.157.103:443?security=tls&sni=aws-kr-seoul-1.f1rocketnode.com&type=tcp&headerType=none#M5"
+                },
+		{
+                    "id"          : 6,
+                    "symbol"      : "CA",
+                    "countryName" : "Canada",
+                    "ping"        : 0,
+                    "config"      : "trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&headerType=none#M6"
+                },
+		{
+                    "id"          : 7,
+                    "symbol"      : "IT",
+                    "countryName" : "Italy",
+                    "ping"        : 0,
+                    "config"      : "vless://244739c0-791a-4996-92b3-4d8bb708c80a@49.12.193.246:443?encryption=none&security=reality&sni=www.iranserver.com&fp=chrome&pbk=JkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ&sid=9a6deee9&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#M7"
+                },
+		{
+                    "id"          : 8,
+                    "symbol"      : "SG",
+                    "countryName" : "Singapore",
+                    "ping"        : 0,
+                    "config"      : "vless://9e1040ca-3dc9-4ea8-a9db-b58b78df835d@64.226.68.71:443?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=UTJqMk4KzuZO_yBtBF6EcxxEh1QW1YeJD-OWUmVSUiU&sid=620602e2&type=grpc#M8"
+                },
+		{
+                    "id"          : 9,
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
+                    "ping"        : 0,
+                    "config"      : "vless://4a40ce8c-e9d0-46bc-a6c4-50ff2712f549@128.140.62.43:443?encryption=none&security=reality&sni=eset.com&fp=chrome&pbk=dSVEQtvtffLWkH3XjEY-KVmtS1me9_Iw2ZFZKpse4VM&sid=25146608&type=grpc&serviceName=%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray%2C%40melov2ray&mode=gun#M9"
+                },
+		{
+                    "id"          : 10,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://ec1c739c-0f10-474a-ac4c-723cf5f4c794@77.91.70.5:443?encryption=none&security=reality&sni=discord.com&fp=chrome&pbk=Y1wCsng55FI_--0jRHiARiaiSUO79Kqj8rEZejYEGwk&sid=f849ec4d&type=grpc#H3"
-                }  
+                    "config"      : "vless://15aa77ea-15b4-4049-934b-e7b38d7fdb9d@128.140.112.16:443?encryption=none&security=reality&sni=irandns.com&fp=chrome&pbk=rPbVDbXLJzGU_Kbnvh4INxwMzk2nV0wFTWP7_zMbpXg&sid=d80cfff3&type=grpc&serviceName=%40v2ray_fark%2C%40v2ray_fark&mode=gun#M10"
+                },
+		{
+                    "id"          : 11,
+                    "symbol"      : "FL",
+                    "countryName" : "Finland",
+                    "ping"        : 0,
+                    "config"      : "vless://caceac82-ae4f-429c-cc0d-594f43ee25aa@165.232.120.123:40051?encryption=none&security=tls&sni=germany1.mrdead.top&type=grpc#M11"
+                },
+		{
+                    "id"          : 12,
+                    "symbol"      : "DN",
+                    "countryName" : "Denmark",
+                    "ping"        : 0,
+                    "config"      : "vless://e910e8fb-3257-4583-9950-088ed4c6116d@167.235.140.61:443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=TxWzYH3c5JcvSe3kyMzqW_h2wcsrwJzozKy8S79ETUA&sid=df8a6f03&type=grpc&serviceName=Telegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargonTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargonTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon&mode=gun#M12"
+                }
+
 		
     ]
    
