@@ -19,7 +19,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "trojan://zwbdPys6Va@94.131.13.159:16128?security=tls&sni=vpnallpha.online&type=tcp&headerType=none#M3"
+                    "config"      : "vless://d6a1cfce-405e-4bd0-b1ab-3f81218d2868@49.12.69.241:443?encryption=none&security=reality&sni=www.zula.ir&fp=chrome&pbk=6lRppIAdonFC7haH0BNu6mGYl7NEoQTMaeIP1yyPaGg&sid=62c8bedb&type=grpc&serviceName=Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER&mode=gun#K2"
                 },
 		{
                     "id"          : 4,
@@ -47,7 +47,7 @@
                     "symbol"      : "IT",
                     "countryName" : "Italy",
                     "ping"        : 0,
-                    "config"      : "vless://244739c0-791a-4996-92b3-4d8bb708c80a@49.12.193.246:443?encryption=none&security=reality&sni=www.iranserver.com&fp=chrome&pbk=JkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ&sid=9a6deee9&type=grpc&serviceName=%40VPNCUSTOMIZE&mode=gun#M7"
+                    "config"      : "vless://5e1b80ec-5abb-4cd8-c436-7063a1df5b34@198.41.209.216:8443?encryption=none&security=tls&sni=direct-ns3.cl0udflar3.com&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=grpc&serviceName=%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C&mode=gun#K7"
                 },
 		{
                     "id"          : 8,
@@ -68,21 +68,21 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://02dc0d8d-fe26-4a4a-8dec-b866d3e303d2@159.69.1.46:443?encryption=none&security=reality&sni=partner.g2.com&fp=chrome&pbk=nR3xhdL6etudF1TeJSD2NI1pYpwYLC1BJUeJE9h94GU&sid=697fbd54&type=grpc&serviceName=%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz%2C%40ZibaNabz&mode=gun#R12"
+                    "config"      : "vless://5e1b80ec-5abb-4cd8-c436-7063a1df5b34@162.159.7.219:8443?encryption=none&security=tls&sni=direct-ns3.cl0udflar3.com&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=grpc&serviceName=%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C&mode=gun#k11"
                 },
 		{
                     "id"          : 11,
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "vless://caceac82-ae4f-429c-cc0d-594f43ee25aa@165.232.120.123:40051?encryption=none&security=tls&sni=germany1.mrdead.top&type=grpc#M11"
+                    "config"      : "vless://2ba60acf-3cd1-4f3d-e7f7-56dfa489dfa0@104.16.41.47:2087?encryption=none&security=tls&sni=direct-ns2.cl0udflar3.com&fp=chrome&type=grpc&serviceName=snapp.ir&mode=gun#K42"
                 },
 		{
                     "id"          : 12,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://e910e8fb-3257-4583-9950-088ed4c6116d@167.235.140.61:443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=TxWzYH3c5JcvSe3kyMzqW_h2wcsrwJzozKy8S79ETUA&sid=df8a6f03&type=grpc&serviceName=Telegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargonTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargonTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon%2CTelegram%3A%40v2rayargon&mode=gun#M12"
+                    "config"      : "vless://6952707e-d668-4b19-87d9-b0f2675eb259@65.109.184.213:443?encryption=none&security=reality&sni=gsmarena.com&fp=chrome&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&sid=a786cf49&type=grpc&serviceName=%40Everyday_VPN&mode=gun#K20"
                 }
 
 		
