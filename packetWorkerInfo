@@ -2,8 +2,8 @@
       "adStatusEnable"          : true,
       "delayInterstitialAd"     : 6000,
       "loadAdStatus"            : "SELECT_SERVER",
-      "notificationDescription" : "",
-      "notificationTitle"       : "", 
+      "notificationDescription" : "Wellcome",
+      "notificationTitle"       : "We are here with free servers ", 
       "notificationID"          : 1,
       "timer"                   : 1800000 ,
       "channelLink"             :"https://t.me/PacketVPNService"             
