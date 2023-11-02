@@ -5,7 +5,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://5e1b80ec-5abb-4cd8-c436-7063a1df5b34@104.25.156.181:8443?encryption=none&security=tls&sni=direct-ns3.cl0udflar3.com&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=grpc&serviceName=%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C&mode=gun#R31"
+                    "config"      : "vless://32f1c148-af93-4c1e-91a0-54edb315e355@172.67.205.136:2087?encryption=none&security=tls&sni=xnxv2ray.mioRay.cfd&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&mode=gun#Q1"
                 },
                 {
                     "id"          : 2,
@@ -54,7 +54,7 @@
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
-                    "config"      : "vless://9e1040ca-3dc9-4ea8-a9db-b58b78df835d@64.226.68.71:443?encryption=none&security=reality&sni=cloudflare.com&fp=firefox&pbk=UTJqMk4KzuZO_yBtBF6EcxxEh1QW1YeJD-OWUmVSUiU&sid=620602e2&type=grpc#M8"
+                    "config"      : "vless://2ba60acf-3cd1-4f3d-e7f7-56dfa489dfa0@45.131.208.46:2087?encryption=none&security=tls&sni=direct-ns2.cl0udflar3.com&fp=chrome&type=grpc&serviceName=snapp.ir&mode=gun#Q11"
                 },
 		{
                     "id"          : 9,
@@ -68,7 +68,7 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://5e1b80ec-5abb-4cd8-c436-7063a1df5b34@162.159.7.219:8443?encryption=none&security=tls&sni=direct-ns3.cl0udflar3.com&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=grpc&serviceName=%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C&mode=gun#k11"
+                    "config"      : "vless://ff265851-3a6f-44ea-c239-215c4ddbc651@172.67.81.238:2096?encryption=none&security=tls&sni=tm.XrV2ray.cfd&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2&mode=gun#Q12"
                 },
 		{
                     "id"          : 11,
@@ -83,9 +83,29 @@
                     "countryName" : "Denmark",
                     "ping"        : 0,
                     "config"      : "vless://6952707e-d668-4b19-87d9-b0f2675eb259@65.109.184.213:443?encryption=none&security=reality&sni=gsmarena.com&fp=chrome&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&sid=a786cf49&type=grpc&serviceName=%40Everyday_VPN&mode=gun#K20"
+                },
+		{
+                    "id"          : 13,
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
+                    "ping"        : 0,
+                    "config"      : "vless://337fde94-8d7a-4523-9a44-38e73a6fef7f@104.18.55.55:2083?encryption=none&security=tls&sni=cloud.barfak123.eu.org&type=grpc&serviceName=%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN&mode=gun#Q3"
+                },
+		{
+                    "id"          : 14,
+                    "symbol"      : "UK",
+                    "countryName" : "United Kingdom",
+                    "ping"        : 0,
+                    "config"      : "vless://658eb606-e826-4f30-ae15-feefb87cacef@104.18.202.212:2053?encryption=none&security=tls&sni=Antiv2ray-MCI-Mokhaderat-Irancell-Shatel.ChV2ray.cfd&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2&mode=gun#Q13"
+                },
+		{
+                    "id"          : 15,
+                    "symbol"      : "FL",
+                    "countryName" : "Findland",
+                    "ping"        : 0,
+                    "config"      : "vless://f3a0a8f0-2ae7-4b02-a08c-c90d529a5648@172.232.206.102:443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=giSaik389_uH47WJcGUudqFpK75nN8mNasnCXQwqC3A&sid=711c88b0&type=grpc#Q4"
                 }
 
-		
     ]
    
 }
