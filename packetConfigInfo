@@ -44,8 +44,8 @@
                 },
 		{
                     "id"          : 7,
-                    "symbol"      : "TR",
-                    "countryName" : "Turkey",
+                    "symbol"      : "IT",
+                    "countryName" : "Italy",
                     "ping"        : 0,
                     "config"      : "trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&headerType=none#M6"
 "
