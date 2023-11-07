@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a1abbffc-fba9-4641-b2b4-daef94ed62e5@188.114.99.46:443?encryption=none&security=tls&sni=travel.colocrossing.sbs&fp=edge&type=grpc&serviceName=dark&mode=gun#Amon-nu663jpj"
+                    "config"      : "vless://a1abbffc-fba9-4641-b2b4-daef94ed62e5@repo.steampowered.com:443?encryption=none&security=tls&sni=travel.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=grpc&serviceName=dark&mode=gun#Z14"
                 },
 		{
                     "id"          : 5,
