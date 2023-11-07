@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://a667f066-6991-4351-bc0c-8476d30acd96@91.107.181.102:29790?encryption=none&security=reality&sni=ea.com&fp=chrome&pbk=gHpgh7fQoB9kzze4I6Pwvo8sXiAPIbja2ieX03dVjkE&sid=1bd52d06&type=grpc#D37"
+                    "config"      : "vless://a1abbffc-fba9-4641-b2b4-daef94ed62e5@188.114.99.46:443?encryption=none&security=tls&sni=travel.colocrossing.sbs&fp=edge&type=grpc&serviceName=dark&mode=gun#Amon-nu663jpj"
                 },
 		{
                     "id"          : 5,
