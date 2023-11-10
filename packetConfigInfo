@@ -33,7 +33,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "trojan://36y1Jpu5Xh@repo.steampowered.com:443?security=tls&sni=About.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=About.colocrossing.top&path=%2F#P14"
+                    "config"      : "trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@89.163.220.99:443?security=tls&sni=glc-de1.windowsupdatea.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none&host=gamefa.com#F42"
                 },
 		{
                     "id"          : 6,
@@ -75,14 +75,14 @@
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "trojan://36y1Jpu5Xh@repo.steampowered.com:443?security=tls&sni=About.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=About.colocrossing.top&path=%2F#P13"
+                    "config"      : "trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#F1"
                 },
 		{
                     "id"          : 12,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "trojan://36y1Jpu5Xh@repo.steampowered.com:443?security=tls&sni=About.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=About.colocrossing.top&path=%2F#P12"
+                    "config"      : "trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#F16"
                 },
 		{
                     "id"          : 13,
