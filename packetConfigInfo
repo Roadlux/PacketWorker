@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "vless://4506f5ad-2a39-4ad1-8d2e-8440e6892ee4@170.64.154.91:443?encryption=none&security=reality&sni=store.steampowered.com&fp=ios&pbk=3p5tnPAW1veJ_F7UvTHgj3zn4pLw-7icV_moj8jDZAM&sid=7a8d2efe&spx=%2Fapp%2F2252570%2FFootball_Manager_2024&type=tcp&headerType=http&host=store.steampowered.com#i8"
+                    "config"      : "trojan://6lj66EpHeV@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i20"
                 },
 		{
                     "id"          : 5,
