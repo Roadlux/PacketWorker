@@ -5,7 +5,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "trojan://fyGqZRuEOQ@cooldark.colocrossing.sbs:443?security=tls&sni=footbal.colocrossing.sbs&alpn=http%2F1.1&fp=ios&type=ws&host=footbal.colocrossing.sbs&path=%2F#i8"
+                    "config"      : "trojan://jkYP4mFGxG@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i20"
                 },
                 {
                     "id"          : 2,
@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://fyGqZRuEOQ@cooldark.colocrossing.sbs:443?security=tls&sni=footbal.colocrossing.sbs&alpn=http%2F1.1&fp=ios&type=ws&host=footbal.colocrossing.sbs&path=%2F#i8"
+                    "config"      : "trojan://jkYP4mFGxG@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i20"
                 },
 		{
                     "id"          : 5,
