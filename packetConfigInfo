@@ -12,7 +12,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://344ad1bf-0e81-4a9a-843f-accec016684d@104.16.209.12:443?encryption=none&security=tls&sni=rglxytcb.mahsa.uno&type=grpc&serviceName=elasticsearch&mode=gun#A2"
+                    "config"      : "trojan://jkYP4mFGxG@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i20"
                 },
                 {
                     "id"          : 3,
