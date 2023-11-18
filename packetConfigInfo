@@ -19,7 +19,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443?encryption=none&security=tls&sni=hdfy8c1.foriran.me&alpn=h2&fp=chrome&type=grpc&serviceName=PvSPM3IC5KffvrsN6rqb&mode=gun#D1"
+                    "config"      : "vless://9654482f-e83f-4a0a-af2c-e1fef3d42926@162.159.129.233:443?encryption=none&security=tls&sni=ftp.mmdfazeli.tech&alpn=http%2F1.1&fp=chrome&type=ws&host=ftp.mmdfazeli.tech&path=%2Fapi%2Fv3%2Fjson#S1"
                 },
 		{
                     "id"          : 4,
@@ -33,7 +33,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@89.163.220.99:443?security=tls&sni=glc-de1.windowsupdatea.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none&host=gamefa.com#F42"
+                    "config"      : "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.18.38.52:443?encryption=none&security=tls&sni=bia.kanal-tel-nufilter.site&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bia.kanal-tel-nufilter.site&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#S2"
                 },
 		{
                     "id"          : 6,
@@ -54,56 +54,56 @@
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
-                    "config"      : "trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp&headerType=none#M2"
+                    "config"      : "vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?encryption=none&security=tls&sni=vl31.rnd.biz.id&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=vl31.rnd.biz.id&path=%2F%3Fed%3D2048#S3"
                 },
 		{
                     "id"          : 9,
                     "symbol"      : "SP",
                     "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "trojan://your_password@16.163.157.177:443?security=tls&sni=aws-hk-1.f1rocketnode.com&type=tcp&headerType=none#M4"
+                    "config"      : "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.60.79:443?encryption=none&security=tls&sni=current.iraniancp.click&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=current.iraniancp.click&path=%2F%3Fed%3D2048#S4"
                 },
 		{
                     "id"          : 10,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.26.0.120:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=tel.iCV2ray.space#B73"
+                    "config"      : "vless://66d710ca-b6d0-4cf4-8c66-33c4695fa229@104.17.111.254:443?encryption=none&security=tls&sni=peykanyadak.phon2.shop&alpn=http%2F1.1&fp=ios&type=ws&host=peykanyadak.phon2.shop&path=%2F#S5"
                 },
 		{
                     "id"          : 11,
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#F1"
+                    "config"      : "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.17.96.13:443?encryption=none&security=tls&sni=bia.kanal-tel-nufilter.site&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bia.kanal-tel-nufilter.site&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#S6"
                 },
 		{
                     "id"          : 12,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#F16"
+                    "config"      : "vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.18.210.98:443?encryption=none&security=tls&sni=watashi.free.de.mnhacker.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=watashi.free.de.mnhacker.eu.org&path=%2F%3Fed%3D2048#S7"
                 },
 		{
                     "id"          : 13,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://32f1c148-af93-4c1e-91a0-54edb315e355@104.21.15.47:2087?encryption=none&security=tls&sni=xnxv2ray.mioRay.cfd&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&mode=gun#Q2"
+                    "config"      : "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.18.32.26:443?encryption=none&security=tls&sni=bia.kanal-tel-nufilter.site&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bia.kanal-tel-nufilter.site&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#S8"
                 },
 		{
                     "id"          : 14,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://337fde94-8d7a-4523-9a44-38e73a6fef7f@104.18.55.55:2083?encryption=none&security=tls&sni=cloud.barfak123.eu.org&type=grpc&serviceName=%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN&mode=gun#Q3"
+                    "config"      : "vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@162.159.128.233:443?encryption=none&security=tls&sni=vl31.rnd.biz.id&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=vl31.rnd.biz.id&path=%2F%3Fed%3D2048%26join%20telegram%3Av2ray_ty#S9"
                 },
 		{
                     "id"          : 15,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.27.193.64:443?encryption=none&security=tls&sni=hdfy6c3.foriran.trade&fp=randomized&type=ws&host=hdfy6c3.foriran.trade&path=%2FBc5xLs413y7DNJYMWXN7kCm3lL#B91"
+                    "config"      : "vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?encryption=none&security=tls&sni=edge.020770.xyz&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#S10"
                 }
 
     ]
