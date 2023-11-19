@@ -5,14 +5,14 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "trojan://zR6hx8Zeem@Palaestinafree.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2F#i8"
+                    "config"      : "trojan://zR6hx8Zeem@cooldark.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scottforever.colocrossing.sbs&path=%2F#i8%2B"
                 },
                 {
                     "id"          : 2,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://zR6hx8Zeem@Palaestinafree.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2F#i8"
+                    "config"      : "trojan://zR6hx8Zeem@cooldark.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scottforever.colocrossing.sbs&path=%2F#i8%2B"
                 },
                 {
                     "id"          : 3,
@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://zR6hx8Zeem@Palaestinafree.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2F#i8"
+                    "config"      : "trojan://zR6hx8Zeem@cooldark.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scottforever.colocrossing.sbs&path=%2F#i8%2B"
                 },
 		{
                     "id"          : 5,
