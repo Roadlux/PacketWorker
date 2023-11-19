@@ -12,7 +12,7 @@
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://zR6hx8Zeem@cooldark.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scottforever.colocrossing.sbs&path=%2F#i8%2B"
+                    "config"      : "vless://36720ff8-f9e1-43af-853d-1d4df6b8ee94@gcore.com:443?sni=speedtest.gcore.com&host=imamkhomani.fun&security=tls&path=%2Fvless&encryption=none&fp=chrome&alpn=http/1.1&type=ws#MO1"
                 },
                 {
                     "id"          : 3,
@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://zR6hx8Zeem@cooldark.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scottforever.colocrossing.sbs&path=%2F#i8%2B"
+                    "config"      : "vless://36720ff8-f9e1-43af-853d-1d4df6b8ee94@gcore.com:443?sni=speedtest.gcore.com&host=imamkhomani.fun&security=tls&path=%2Fvless&encryption=none&fp=chrome&alpn=http/1.1&type=ws#MO1"
                 },
 		{
                     "id"          : 5,
