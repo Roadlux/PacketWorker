@@ -19,7 +19,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://9654482f-e83f-4a0a-af2c-e1fef3d42926@162.159.129.233:443?encryption=none&security=tls&sni=ftp.mmdfazeli.tech&alpn=http%2F1.1&fp=chrome&type=ws&host=ftp.mmdfazeli.tech&path=%2Fapi%2Fv3%2Fjson#S1"
+                    "config"      : "trojan://j47juGmQIo@no.09.ijg.cc:443?security=tls&alpn=h2%2Chttp%2F1.1&fp=ios&type=tcp&headerType=none#C1"
                 },
 		{
                     "id"          : 4,
@@ -33,77 +33,77 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.18.38.52:443?encryption=none&security=tls&sni=bia.kanal-tel-nufilter.site&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bia.kanal-tel-nufilter.site&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#S2"
+                    "config"      : "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:443?encryption=none&security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#C2"
                 },
 		{
                     "id"          : 6,
                     "symbol"      : "CA",
                     "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "vless://3003c4dc-66c7-446c-b4ba-5f3ee893ec66@185.217.143.169:443?encryption=none&security=reality&sni=ftp.debian.org&fp=firefox&pbk=yoHjp5HEO2ARYm5i6xGYgAeGR-5oNcRgV2dYEK--vzs&sid=1e0a2f1a&type=grpc&serviceName=%40OUTLINEIRAN%2C%40OUTLINEIRAN%2C%40OUTLINEIRAN%2C%40OUTLINEIRAN%2C%40OUTLINEIRAN%2C&mode=gun#D82"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.21.71.23:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#C3"
                 },
 		{
                     "id"          : 7,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://8da8032f-313d-4334-b519-981fc57ceb6b@135.181.25.87:23077?encryption=none&security=reality&sni=sourceforge.net&fp=firefox&pbk=llId5zadE4mFQks6aRvWjYPYfBGcXkXktdPsM_n5SW4&sid=a3cf22c5&type=http&path=bia%2FTelegram%2FV2ray_Alpha#B3"
+                    "config"      : "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.84.180:2083?encryption=none&security=tls&sni=baipiao1.curly-train.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#C4"
                 },
 		{
                     "id"          : 8,
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
-                    "config"      : "vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?encryption=none&security=tls&sni=vl31.rnd.biz.id&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=vl31.rnd.biz.id&path=%2F%3Fed%3D2048#S3"
+                    "config"      : "vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?encryption=none&security=tls&sni=sdgf.bdfstt.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048#C5"
                 },
 		{
                     "id"          : 9,
                     "symbol"      : "SP",
                     "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.60.79:443?encryption=none&security=tls&sni=current.iraniancp.click&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=current.iraniancp.click&path=%2F%3Fed%3D2048#S4"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.21.16.201:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=https%3A%2F%2Fpassport.8338.hk%2Fsc%2Fudomain%2Flogin%3F_ga%3D2.242359242.995021333.1694767696-894906061.1694767696#C6"
                 },
 		{
                     "id"          : 10,
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "vless://66d710ca-b6d0-4cf4-8c66-33c4695fa229@104.17.111.254:443?encryption=none&security=tls&sni=peykanyadak.phon2.shop&alpn=http%2F1.1&fp=ios&type=ws&host=peykanyadak.phon2.shop&path=%2F#S5"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.3:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#C7"
                 },
 		{
                     "id"          : 11,
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.17.96.13:443?encryption=none&security=tls&sni=bia.kanal-tel-nufilter.site&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bia.kanal-tel-nufilter.site&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#S6"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#C8"
                 },
 		{
                     "id"          : 12,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.18.210.98:443?encryption=none&security=tls&sni=watashi.free.de.mnhacker.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=watashi.free.de.mnhacker.eu.org&path=%2F%3Fed%3D2048#S7"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.21.19.124:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#C9"
                 },
 		{
                     "id"          : 13,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://6b1d16aa-ebae-4a16-9208-3e00b1346556@104.18.32.26:443?encryption=none&security=tls&sni=bia.kanal-tel-nufilter.site&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bia.kanal-tel-nufilter.site&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#S8"
+                    "config"      : "vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.201:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2F%40azarbayjab1%2Fhttps%3A%2F%2Foctohide.com%2Froutertabrizm137.com%2Fdiamond_tm%2Ft.me%2Fazarbayjab1#C10"
                 },
 		{
                     "id"          : 14,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@162.159.128.233:443?encryption=none&security=tls&sni=vl31.rnd.biz.id&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=vl31.rnd.biz.id&path=%2F%3Fed%3D2048%26join%20telegram%3Av2ray_ty#S9"
+                    "config"      : "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.211.74:443?encryption=none&security=tls&sni=current.iraniancp.click&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=current.iraniancp.click&path=%2F%3Fed%3D2048#C11"
                 },
 		{
                     "id"          : 15,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?encryption=none&security=tls&sni=edge.020770.xyz&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#S10"
+                    "config"      : "vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?encryption=none&security=tls&sni=Poshtiban.ehsa0535.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=grpc#C12"
                 }
 
     ]
