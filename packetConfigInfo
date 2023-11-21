@@ -5,7 +5,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "trojan://zR6hx8Zeem@cooldark.colocrossing.sbs:443?security=tls&sni=Palaestinafree.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=scottforever.colocrossing.sbs&path=%2F#i8%2B"
+                    "config"      : "vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@cooldark.colocrossing.sbs:443?encryption=none&security=tls&sni=shopefun.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=shopefun.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i88"
                 },
                 {
                     "id"          : 2,
