@@ -19,7 +19,7 @@
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "vless://36720ff8-f9e1-43af-853d-1d4df6b8ee94@gcore.com:443?encryption=none&security=tls&sni=speedtest.gcore.com&alpn=http%2F1.1&fp=chrome&type=ws&host=imamkhomani.fun&path=%2Fvless#MO"
+                    "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@cloudflare.net:2087?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#MAX24"
                 },
 		{
                     "id"          : 4,
