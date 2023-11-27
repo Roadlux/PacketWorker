@@ -5,7 +5,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@palaestinafree.colocrossing.sbs:443?encryption=none&security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i8"
+                    "config"      : "vless://36a729cb-8174-444e-96c8-f23fa6475a88@www.digitalocean.com:443?sni=firemanbestlove.colocrossing.sbs&host=firemanbestlove.colocrossing.sbs&security=tls&path=%2FMehrdadws&encryption=none&fp=chrome&alpn=h2,http/1.1&type=ws#i99"
                 },
                 {
                     "id"          : 2,
