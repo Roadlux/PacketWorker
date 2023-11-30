@@ -5,7 +5,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://e9e6cc38-56c4-418d-96a7-c5932c5c66aa@scottforever.colocrossing.sbs:443?encryption=none&security=tls&sni=monkikingbar.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=forfuntime.colocrossing.sbs&path=%2Fpaketws#GGR"
+                    "config"      : "vless://e9e6cc38-56c4-418d-96a7-c5932c5c66aa@madkose.colocrossing.sbs:443?encryption=none&security=tls&sni=madkose.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=forfuntime.colocrossing.sbs&path=%2Fpaketws#GGR"
                 },
                 {
                     "id"          : 2,
