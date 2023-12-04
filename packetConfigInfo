@@ -1,69 +1,47 @@
 {
     "configs" : [
-                {
+		{
 		    "id"          : 1,
+                    "symbol"      : "TR",
+                    "countryName" : "Turkey",
+                    "ping"        : 0,
+                    "config"      : "vless://c05431d4-c2c6-4b53-aefb-9464a752b55b@who.int:443?encryption=none&security=tls&sni=debiantech.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=debiantech.colocrossing.sbs&path=%2Fdebiantechws#AMO2"
+                },
+		{
+		    "id"          : 2,
+                    "symbol"      : "TR",
+                    "countryName" : "Turkey",
+                    "ping"        : 0,
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNTzEiLA0KICAiYWRkIjogIndoby5pbnQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzA1NDMxZDQtYzJjNi00YjUzLWFlZmItOTQ2NGE3NTJiNTViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGViaWFudGVjaC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2RlYmlhbnRlY2h2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGViaWFudGVjaC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                },
+                {
+		    "id"          : 3,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vless://e9e6cc38-56c4-418d-96a7-c5932c5c66aa@madkose.colocrossing.sbs:443?encryption=none&security=tls&sni=madkose.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=forfuntime.colocrossing.sbs&path=%2Fpaketws#GGR"
                 },
                 {
-                    "id"          : 2,
+                    "id"          : 4,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@fifagoogls.colocrossing.sbs:8443?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i20"
                 },
                 {
-                    "id"          : 3,
+                    "id"          : 5,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@cloudflare.net:2087?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#MAX24"
                 },
 		{
-                    "id"          : 4,
+                    "id"          : 6,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@fifa2023fans.colocrossing.sbs:2083?encryption=none&security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i208"
-                },
-		{
-                    "id"          : 5,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
-                    "ping"        : 0,
-                    "config"      : "vless://465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?encryption=none&security=tls&sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&path=%2F#R41"
-                },
-		{
-                    "id"          : 6,
-                    "symbol"      : "JP",
-                    "countryName" : "Japan",
-                    "ping"        : 0,
-                    "config"      : "vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@172.67.181.89:443?encryption=none&security=tls&sni=vpn442telegram.wucwej.workers.Dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2F%3Fed%3D2048#R11"
-                },
-		{
-                    "id"          : 7,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
-                    "ping"        : 0,
-                    "config"      : "vless://eabcffaa-670a-4307-953b-e4d54a311d84@162.159.135.232:443?encryption=none&security=tls&sni=a.wordpass.workers.Dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=a.wordpass.workers.Dev&path=%2F%3Fed%3D2048#R37"
-                },
-		{
-                    "id"          : 8,
-                    "symbol"      : "SG",
-                    "countryName" : "Singapore",
-                    "ping"        : 0,
-                    "config"      : "vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@104.21.220.87:443?encryption=none&security=tls&sni=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&path=%2F#R99"
-                },
-		{
-                    "id"          : 9,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
-                    "ping"        : 0,
-                    "config"      : "trojan://I864rxBP9tLYy6OdZ_3SrQ@162.55.156.42:443?security=tls&sni=pubtlx.pqmin.online&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fi.pqmin.online&path=%2Ftwcdn-warp#R22"
                 }
-		
 		
     ]
    
