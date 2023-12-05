@@ -2,41 +2,76 @@
     "configs" : [
 		{
 		    "id"          : 1,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada145.lefxb.com:443?encryption=none&security=tls&sni=ada145.lefxb.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=ada145.lefxb.com&path=users%3Fed%3D2048#Us54"
+                },
+		{
+		    "id"          : 2,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@mt1.nabsk.com:443?encryption=none&security=tls&sni=mt1.nabsk.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=mt1.nabsk.com&path=users%3Fed%3D2048#Us30"
+                },
+		{
+		    "id"          : 3,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada36.qvqag.com:443?encryption=none&security=tls&sni=ada36.qvqag.com&alpn=http%2F1.1&fp=ios&type=ws&host=ada36.qvqag.com&path=users%3Fed%3D2048#US72"
+                },
+		{
+		    "id"          : 4,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "vless://660e3441-9768-4b88-902b-1c3d4ceede10@cooldark.colocrossing.sbs:8443?encryption=none&security=tls&sni=Netazad22-chanel-for-yo-fuh31jhthirkh.deepinsane.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=gt6.deepinsane.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#Us99"
+                },
+		{
+		    "id"          : 5,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "vless://7eb4ffd8-b2ba-44de-afa9-02ca4104e84b@cooldark.colocrossing.sbs:8443?encryption=none&security=tls&sni=Free-config-for-you693ew6jy773hdhdhhgfsdhhdh.zerooners.com&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=news6.zerooners.com&path=%2FTelegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22%20Telegram%20%40Netazad22#Us91"
+                },
+		{
+		    "id"          : 6,
                     "symbol"      : "TR",
                     "countryName" : "Turkey",
                     "ping"        : 0,
                     "config"      : "vless://c05431d4-c2c6-4b53-aefb-9464a752b55b@who.int:443?encryption=none&security=tls&sni=debiantech.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=debiantech.colocrossing.sbs&path=%2Fdebiantechws#AMO2"
                 },
 		{
-		    "id"          : 2,
+		    "id"          : 7,
                     "symbol"      : "TR",
                     "countryName" : "Turkey",
                     "ping"        : 0,
                     "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNTzEiLA0KICAiYWRkIjogIndoby5pbnQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzA1NDMxZDQtYzJjNi00YjUzLWFlZmItOTQ2NGE3NTJiNTViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGViaWFudGVjaC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgInBhdGgiOiAiL2RlYmlhbnRlY2h2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZGViaWFudGVjaC5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
                 },
                 {
-		    "id"          : 3,
+		    "id"          : 8,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vless://e9e6cc38-56c4-418d-96a7-c5932c5c66aa@madkose.colocrossing.sbs:443?encryption=none&security=tls&sni=madkose.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=forfuntime.colocrossing.sbs&path=%2Fpaketws#GGR"
                 },
                 {
-                    "id"          : 4,
+                    "id"          : 9,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@fifagoogls.colocrossing.sbs:8443?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i20"
                 },
                 {
-                    "id"          : 5,
+                    "id"          : 10,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@cloudflare.net:2087?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#MAX24"
                 },
 		{
-                    "id"          : 6,
+                    "id"          : 11,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
