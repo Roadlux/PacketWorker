@@ -56,22 +56,36 @@
                     "ping"        : 0,
                     "config"      : "vless://e9e6cc38-56c4-418d-96a7-c5932c5c66aa@madkose.colocrossing.sbs:443?encryption=none&security=tls&sni=madkose.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=forfuntime.colocrossing.sbs&path=%2Fpaketws#GGR"
                 },
+		{
+		    "id"          : 9,
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
+                    "ping"        : 0,
+                    "config"      : "vless://a20dc8d2-d8d3-4d62-af16-c16e4b84a213@monkikingbar.colocrossing.sbs:443?encryption=none&security=tls&sni=fifadaysreview.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fifadaysreview.colocrossing.sbs&path=%2Ffifaws#AMOGR1"
+                },
+		{
+		    "id"          : 10,
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
+                    "ping"        : 0,
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT0dSMiIsDQogICJhZGQiOiAicGFsYWVzdGluYWZyZWUuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMjBkYzhkMi1kOGQzLTRkNjItYWYxNi1jMTZlNGI4NGEyMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogInplcm8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZpZmFkYXlzcmV2aWV3LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvZmlmYXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmaWZhZGF5c3Jldmlldy5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
+                },
                 {
-                    "id"          : 9,
+                    "id"          : 11,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@fifagoogls.colocrossing.sbs:8443?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i20"
                 },
                 {
-                    "id"          : 10,
+                    "id"          : 12,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@cloudflare.net:2087?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#MAX24"
                 },
 		{
-                    "id"          : 11,
+                    "id"          : 13,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
