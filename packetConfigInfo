@@ -90,7 +90,29 @@
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@fifa2023fans.colocrossing.sbs:2083?encryption=none&security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i208"
+                },
+		{
+                    "id"          : 14,
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
+                    "ping"        : 0,
+                    "config"      : "vless://455f60dd-75d1-4e07-9941-745af1810f58@monkikingbar.colocrossing.sbs:443?encryption=none&security=tls&sni=fifagoogls.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bigmagdrop.colocrossing.sbs&path=%2Ftommyws#AMONL1"
+                },
+		{
+                    "id"          : 15,
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
+                    "ping"        : 0,
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT05MMiIsDQogICJhZGQiOiAibW9ua2lraW5nYmFyLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDU1ZjYwZGQtNzVkMS00ZTA3LTk5NDEtNzQ1YWYxODEwZjU4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiaWdtYWdkcm9wLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvdG9tbXl2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAicGFsYWVzdGluYWZyZWUuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                },
+		{
+                    "id"          : 16,
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
+                    "ping"        : 0,
+                    "config"      : "vless://455f60dd-75d1-4e07-9941-745af1810f58@fifa2023fans.colocrossing.sbs:443?encryption=none&security=tls&sni=bigmagdrop.colocrossing.sbs&alpn=h2&fp=ios&type=grpc&serviceName=tommygrpc&mode=gun#AMONL3"
                 }
+
 		
     ]
    
