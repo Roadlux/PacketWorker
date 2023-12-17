@@ -160,6 +160,13 @@
                     "countryName" : "France",
                     "ping"        : 0,
                     "config"      : "trojan://ef38b9c0-9861-11ee-9049-1239d0255272@cooldark.colocrossing.sbs:443?security=tls&sni=fr1.test3.net&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fr1.test3.net&path=%2Fhowdy#Q2"
+                },
+		{
+                    "id"          : 24,
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
+                    "ping"        : 0,
+                    "config"      : "vless://8a7ec621-d27b-4e08-9433-f2076b2b63c0@[0000:0000:0000:0000:0000:ffff:6812:7264]:8080?path=%2F&security=none&encryption=none&host=n1.shirazpc.site&type=ws#Netcup+Astria-0c1zp1k9"
                 }
 
 		
