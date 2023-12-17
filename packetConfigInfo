@@ -96,21 +96,21 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?encryption=none&security=reality&sni=lit.dev&fp=chrome&pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&sid=9e20a9863c3c8d7d&type=tcp&headerType=none#X4"
+                    "config"      : "vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@fifa2023fans.colocrossing.sbs:443?encryption=none&security=tls&sni=current.ircp.online&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048#Q3"
                 },
                 {
                     "id"          : 15,
-                    "symbol"      : "FL",
-                    "countryName" : "Finland",
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=partner.g2.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&host=partner.g2.com#X1"
+                    "config"      : "vless://376b9861-2fc6-4647-959c-18185cd9c95a@monkikingbar.colocrossing.sbs:443?encryption=none&security=tls&sni=lmn37.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=lmn37.sbs&path=%2Ffflsws#Q1"
                 },
                 {
                     "id"          : 16,
-                    "symbol"      : "RU",
-                    "countryName" : "Russian",
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=ios&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8&type=tcp&headerType=none#X2"
+                    "config"      : "vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@fifagoogls.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=datafransfer.tunn.free.hr&path=%2F%3Fed%3D2048#Q7"
                 },
 		{
                     "id"          : 17,
@@ -132,6 +132,34 @@
                     "countryName" : "Netherlands",
                     "ping"        : 0,
                     "config"      : "vless://455f60dd-75d1-4e07-9941-745af1810f58@fifa2023fans.colocrossing.sbs:443?encryption=none&security=tls&sni=bigmagdrop.colocrossing.sbs&alpn=h2&fp=ios&type=grpc&serviceName=tommygrpc&mode=gun#AMONL3"
+                },
+		{
+                    "id"          : 20,
+                    "symbol"      : "JP",
+                    "countryName" : "Japan",
+                    "ping"        : 0,
+                    "config"      : "vless://e4e80428-c1e2-44b5-a8ce-7b868d41b49b@monkikingbar.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=jp3.rtacg.com&path=%2F#Q6"
+                },
+		{
+                    "id"          : 21,
+                    "symbol"      : "SG",
+                    "countryName" : "Singapore",
+                    "ping"        : 0,
+                    "config"      : "vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@palaestinafree.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=datafransfer.tunn.free.hr&path=%2F%3Fed%3D2048#Q5"
+                },
+		{
+                    "id"          : 22,
+                    "symbol"      : "SG",
+                    "countryName" : "Singapore",
+                    "ping"        : 0,
+                    "config"      : "vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@fifagoogls.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=datafransfer.tunn.free.hr&path=%2F%3Fed%3D2048#Q4"
+                },
+		{
+                    "id"          : 23,
+                    "symbol"      : "FR",
+                    "countryName" : "France",
+                    "ping"        : 0,
+                    "config"      : "trojan://ef38b9c0-9861-11ee-9049-1239d0255272@cooldark.colocrossing.sbs:443?security=tls&sni=fr1.test3.net&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fr1.test3.net&path=%2Fhowdy#Q2"
                 }
 
 		
