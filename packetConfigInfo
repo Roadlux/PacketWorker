@@ -63,64 +63,71 @@
                     "ping"        : 0,
                     "config"      : "trojan://02d25f6e-0b4f-4e0b-96a1-60bc6bd7e30c@cooldark.colocrossing.sbs:443?security=tls&sni=fauymanbox.colocrossing.sbs&alpn=h2&fp=ios&type=grpc&serviceName=doggtrojangrpc&mode=gun#AMOTR1"
                 },
-                {
+		{
 		    "id"          : 10,
+                    "symbol"      : "TR",
+                    "countryName" : "Turkey",
+                    "ping"        : 0,
+                    "config"      : "vless://f29c4237-2535-4e4a-8153-35e310f82c78@185.113.223.241:45642?encryption=none&security=reality&sni=www.speedtest.net&fp=ios&pbk=O0rpXml2K3csUEoVf-52FxmioxVIFbWoX-DilOJQaTA&sid=963cc820&type=grpc&serviceName=%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN&mode=gun#X3"
+                },
+                {
+		    "id"          : 11,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vless://e9e6cc38-56c4-418d-96a7-c5932c5c66aa@madkose.colocrossing.sbs:443?encryption=none&security=tls&sni=madkose.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=forfuntime.colocrossing.sbs&path=%2Fpaketws#GGR"
                 },
 		{
-		    "id"          : 11,
+		    "id"          : 12,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vless://a20dc8d2-d8d3-4d62-af16-c16e4b84a213@monkikingbar.colocrossing.sbs:443?encryption=none&security=tls&sni=fifadaysreview.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fifadaysreview.colocrossing.sbs&path=%2Ffifaws#AMOGR1"
                 },
 		{
-		    "id"          : 12,
+		    "id"          : 13,
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
                     "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT0dSMiIsDQogICJhZGQiOiAicGFsYWVzdGluYWZyZWUuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMjBkYzhkMi1kOGQzLTRkNjItYWYxNi1jMTZlNGI4NGEyMTMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogInplcm8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImZpZmFkYXlzcmV2aWV3LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvZmlmYXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmaWZhZGF5c3Jldmlldy5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiaW9zIg0KfQ=="
                 },
-                {
-                    "id"          : 13,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
-                    "ping"        : 0,
-                    "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@fifagoogls.colocrossing.sbs:8443?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i20"
-                },
-                {
-                    "id"          : 14,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
-                    "ping"        : 0,
-                    "config"      : "trojan://tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz@cloudflare.net:2087?security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#MAX24"
-                },
 		{
+		    "id"          : 14,
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
+                    "ping"        : 0,
+                    "config"      : "vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?encryption=none&security=reality&sni=lit.dev&fp=chrome&pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&sid=9e20a9863c3c8d7d&type=tcp&headerType=none#X4"
+                },
+                {
                     "id"          : 15,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
+                    "symbol"      : "FL",
+                    "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "vless://71a7db14-1b6f-5aec-9e5d-9bd5f8beabab@fifa2023fans.colocrossing.sbs:2083?encryption=none&security=tls&sni=dota2bestman.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=dota2bestman.colocrossing.sbs&path=%2Ftrojan-panel-websocket-path#i208"
+                    "config"      : "vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=partner.g2.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none&host=partner.g2.com#X1"
                 },
-		{
+                {
                     "id"          : 16,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
+                    "symbol"      : "RU",
+                    "countryName" : "Russian",
                     "ping"        : 0,
-                    "config"      : "vless://455f60dd-75d1-4e07-9941-745af1810f58@monkikingbar.colocrossing.sbs:443?encryption=none&security=tls&sni=fifagoogls.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bigmagdrop.colocrossing.sbs&path=%2Ftommyws#AMONL1"
+                    "config"      : "vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ftp.debian.org&fp=ios&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8&type=tcp&headerType=none#X2"
                 },
 		{
                     "id"          : 17,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT05MMiIsDQogICJhZGQiOiAibW9ua2lraW5nYmFyLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDU1ZjYwZGQtNzVkMS00ZTA3LTk5NDEtNzQ1YWYxODEwZjU4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiaWdtYWdkcm9wLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvdG9tbXl2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAicGFsYWVzdGluYWZyZWUuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                    "config"      : "vless://455f60dd-75d1-4e07-9941-745af1810f58@monkikingbar.colocrossing.sbs:443?encryption=none&security=tls&sni=fifagoogls.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=bigmagdrop.colocrossing.sbs&path=%2Ftommyws#AMONL1"
                 },
 		{
                     "id"          : 18,
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
+                    "ping"        : 0,
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT05MMiIsDQogICJhZGQiOiAibW9ua2lraW5nYmFyLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDU1ZjYwZGQtNzVkMS00ZTA3LTk5NDEtNzQ1YWYxODEwZjU4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJiaWdtYWdkcm9wLmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvdG9tbXl2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAicGFsYWVzdGluYWZyZWUuY29sb2Nyb3NzaW5nLnNicyIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImlvcyINCn0="
+                },
+		{
+                    "id"          : 19,
                     "symbol"      : "NL",
                     "countryName" : "Netherlands",
                     "ping"        : 0,
