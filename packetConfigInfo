@@ -174,6 +174,20 @@
                     "countryName" : "Spain",
                     "ping"        : 0,
                     "config"      : "vless://8a7ec621-d27b-4e08-9433-f2076b2b63c0@[0000:0000:0000:0000:0000:ffff:6812:7264]:8080?path=%2F&security=none&encryption=none&host=n1.shirazpc.site&type=ws#Netcup+Astria-0c1zp1k9"
+                },
+		{
+                    "id"          : 26,
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
+                    "ping"        : 0,
+                    "config"      : "vless://bf77e592-c3a0-47d9-96b7-0d29ca7d8835@basir-abyek.ac.ir:443?encryption=none&security=tls&sni=rates-expert-authorized-detail.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=rates-expert-authorized-detail.trycloudflare.com&path=%2Fxui#AMONEW1"
+                },
+		{
+                    "id"          : 27,
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
+                    "ping"        : 0,
+                    "config"      : "vless://bf77e592-c3a0-47d9-96b7-0d29ca7d8835@ekbatan.ac.ir:80?encryption=none&security=none&sni=rates-expert-authorized-detail.trycloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=rates-expert-authorized-detail.trycloudflare.com&path=%2Fxui#AMONEW2"
                 }
 
 		
