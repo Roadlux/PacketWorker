@@ -12,7 +12,14 @@
                     "symbol"      : "FR",
                     "countryName" : "این سرور برای آپدیت و به مدت 72 ساعت فعال می باشد",
                     "ping"        : 0,
-                    "config"      : "vless://a8196412-21da-4892-ae58-4a0b6c440f75@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=singles-incurred-graduate-builds.trycloudflare.com&path=%2F%3Fed%3D2048#England"
+                    "config"      : "vless://e1e398e4-924b-4a44-bdfe-fdcb0754b3da@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=rates-expert-authorized-detail.trycloudflare.com&path=%2Fxui#AMOAU33"
+                },
+		 {
+		    "id"          : 3,
+                    "symbol"      : "TR",
+                    "countryName" : "این سرور برای آپدیت و به مدت 72 ساعت فعال می باشد",
+                    "ping"        : 0,
+                    "config"      : "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNT1RSMiIsDQogICJhZGQiOiAic2NhbGUzNjAuY29sb2Nyb3NzaW5nLnNicyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwMmQyNWY2ZS0wYjRmLTRlMGItOTZhMS02MGJjNmJkN2UzMGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJmYXV5bWFuYm94LmNvbG9jcm9zc2luZy5zYnMiLA0KICAicGF0aCI6ICIvZG9nZ3Z3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJjb29sZGFyay5jb2xvY3Jvc3Npbmcuc2JzIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiZWRnZSINCn0="
                 }
     ]
    
